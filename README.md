@@ -2,7 +2,7 @@ ETalk - EnjoyToShare Talk（全称）
 
 基于 Leancloud 实现的 Valine 说说系统
 
-demo 地址：[https://wugenqiang.github.io/ETalk/index.html](https://wugenqiang.github.io/ETalk/index.html)
+demo 地址：[https://wugenqiang.js.org/index.html](https://wugenqiang.js.org/index.html)
 
 demo 效果：
 
