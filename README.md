@@ -1,12 +1,10 @@
-ETalk - EnjoyToShare Talk（全称）
+# 👒 静态文件存储库
+> 地址：[https://wugenqiang.js.org/](https://wugenqiang.js.org/) + src + [js/css/json] 具体看下面使用链接，可以直接引用！链接地址不会改变！内容会不断完善！🎉🎉
 
-基于 Leancloud 实现的 Valine 说说系统
+## CSS
+* Iconfont 图标：[https://wugenqiang.js.org/src/css/iconfont.css](https://wugenqiang.js.org/src/css/iconfont.css) 或者使用 jsdelivr 加速： [https://cdn.jsdelivr.net/gh/wugenqiang/wugenqiang.js.org/src/css/iconfont.css](https://cdn.jsdelivr.net/gh/wugenqiang/wugenqiang.js.org/src/css/iconfont.css)
 
-demo 地址：[https://wugenqiang.js.org/index.html](https://wugenqiang.js.org/index.html)
-
-demo 效果：
-
-![](https://gitee.com/wugenqiang/PictureBed/raw/master/NoteBook/20200707092931.png)
+## js
 
 一直在完善，如有更好的建议，欢迎 call 我！Thank you！
 
