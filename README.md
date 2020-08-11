@@ -3,12 +3,12 @@
 
 ## Src
 ### CSS
-* [Iconfont 图标](https://github.com/wugenqiang/wugenqiang.js.org/blob/master/src/css/iconfont.css)：[https://wugenqiang.js.org/src/css/iconfont.css](https://wugenqiang.js.org/src/css/iconfont.css) 或者使用 jsdelivr 加速： [https://cdn.jsdelivr.net/gh/wugenqiang/wugenqiang.js.org/src/css/iconfont.css](https://cdn.jsdelivr.net/gh/wugenqiang/wugenqiang.js.org/src/css/iconfont.css)
-* [sponsor.css](https://github.com/wugenqiang/wugenqiang.js.org/blob/master/src/css/sponsor.css)：[https://wugenqiang.js.org/src/css/sponsor.css](https://wugenqiang.js.org/src/css/sponsor.css)
+* Iconfont 图标：[https://wugenqiang.js.org/src/css/iconfont.css](https://wugenqiang.js.org/src/css/iconfont.css) 或者使用 jsdelivr 加速： [https://cdn.jsdelivr.net/gh/wugenqiang/wugenqiang.js.org/src/css/iconfont.css](https://cdn.jsdelivr.net/gh/wugenqiang/wugenqiang.js.org/src/css/iconfont.css)
+* sponsor.css：[https://wugenqiang.js.org/src/css/sponsor.css](https://wugenqiang.js.org/src/css/sponsor.css)
 
 ### js
 
-* [sponsor.js](https://github.com/wugenqiang/wugenqiang.js.org/blob/master/src/js/sponsor.js)：[https://wugenqiang.js.org/src/js/sponsor.js](https://wugenqiang.js.org/src/js/sponsor.js)
+* sponsor.js：[https://wugenqiang.js.org/src/js/sponsor.js](https://wugenqiang.js.org/src/js/sponsor.js)
 
 ## 小功能体验区
 
