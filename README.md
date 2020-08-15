@@ -1,3 +1,4 @@
+<script data-ad-client="ca-pub-1890271224952559" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 # 👒 静态文件存储库
 > 地址：[https://wugenqiang.js.org/](https://wugenqiang.js.org/) + src + [ js/css/json ] 具体看下面使用链接，可以直接引用！链接地址不会改变！内容会不断完善！🎉🎉 源文件地址：[https://github.com/wugenqiang/wugenqiang.js.org](https://github.com/wugenqiang/wugenqiang.js.org)
